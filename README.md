@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello!
+I'm SupremeKirb. I'm into SNES modding and game programming, and that's what this account is for.
+You can contact me on Discord (`@supremekirb`).
+
+### Current projects
+* EBME - An EarthBound Map Editor
+* Various bits and bobs with [CoilSnake](https://github.com/pk-hack/CoilSnake)
 
 <!--
 **Supremekirb/Supremekirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
