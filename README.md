@@ -4,7 +4,7 @@ You can contact me on Discord (`@supremekirb`).
 
 ### Current projects
 * EBME - An EarthBound Map Editor
-* Various bits and bobs with [CoilSnake](https://github.com/pk-hack/CoilSnake)
+* Various bits and bobs using [CoilSnake](https://github.com/pk-hack/CoilSnake) projects.
 
 <!--
 **Supremekirb/Supremekirb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
